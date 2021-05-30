@@ -11,7 +11,6 @@ View my verified achievement from IBM Skillsbuild and Udamy Badges 👉
     5.	CLOUD CORE
     6.	SKILLSBUILD - CUSTROMER ENGAGEMENT – PROBLEM SLOVING AND PROCE CONTROL
     7.	Skills Build - Customer Engagement: Communication and Personality Dynamics
-
 Skills
     1.Cloud Computing
     2.Artificial Intelligence
