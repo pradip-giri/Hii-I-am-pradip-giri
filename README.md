@@ -1,31 +1,32 @@
 # Hii-I-am-pradip-giri
-I'm currently working on something new!
+### I'm currently working on something new!
+### <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bu.edu%2Feng%2Fprograms%2Fce-phd-post-masters-option%2F&psig=AOvVaw1nIbCrW3_sGLamS0NgQfb7&ust=1622547740741000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCct8Hr8_ACFQAAAAAdAAAAABAD">
 
-Follow me 🗨 Instragram or Linkedin, Taligram and Twitter,
+Follow me 🗨 <a href="https://www.linkedin.com/in/pradip-pradip-7862791a6/">Instragram or Linkedin, Taligram and Twitter,
 Recently, I have done my group  project on website development, AYURVEDIC HERBS & REMEDY
 View my verified achievement from IBM Skillsbuild and Udamy Badges 👉
-    1.	PROBLEM SOLVING AND PROCESS CONTROL
-    2.	EXPLORATION INTO MINDFULNESS
-    3.	BIG DATA FOUNDAMENTAL – LEVEL1
-    4.	PYTHON DATA SCIENCE
-    5.	CLOUD CORE
-    6.	SKILLSBUILD - CUSTROMER ENGAGEMENT – PROBLEM SLOVING AND PROCE CONTROL
-    7.	Skills Build - Customer Engagement: Communication and Personality Dynamics
-Skills
-    1.Cloud Computing
-    2.Artificial Intelligence
-    3.Programming Languages
-    4.Cybersecurity
-    5.Troubleshooting
-    6.Team work
-    7.Adaptability
+    - PROBLEM SOLVING AND PROCESS CONTROL
+    - 	EXPLORATION INTO MINDFULNESS
+    - 	BIG DATA FOUNDAMENTAL – LEVEL1
+    -	PYTHON DATA SCIENCE
+    -	CLOUD CORE
+    -	SKILLSBUILD - CUSTROMER ENGAGEMENT – PROBLEM SLOVING AND PROCE CONTROL
+    -	Skills Build - Customer Engagement: Communication and Personality Dynamics
+### Skills
+    - Cloud Computing
+    - Artificial Intelligence
+    - Programming Languages
+    - Cybersecurity
+    - Troubleshooting
+    - Team work
+    - Adaptability
     
-Hobbies
-    1.Drowing
-    2.Learning
-    3.Watching Movies and news and music
+### Hobbies
+    - Drowing
+    - Learning
+    - Watching Movies and news and music
     
-Languages
-    1.Bengali
-    2.Hindhi
-    3.English only
+### Languages
+    - Bengali
+    - Hindhi
+    - English only
